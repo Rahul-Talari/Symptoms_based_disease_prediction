@@ -1,0 +1,25 @@
+# Secrets
+.env
+Credentials/
+
+# Environments
+.venv/
+venv/
+
+# Generated artifacts (rebuild with `symptom-dx build-index`)
+artifacts/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
