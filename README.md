@@ -6,9 +6,6 @@
 
 The project builds and compares three ways of giving an LLM reliable medical context (Retrieval-Augmented Generation, or RAG). Combining all three gave the best accuracy, the fewest hallucinations and the fastest responses.
 
-> ⚠️ Research and portfolio project. Not medical advice.
-
----
 
 ## Example
 
